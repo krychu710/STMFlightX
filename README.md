@@ -29,10 +29,10 @@ Welcome in a world of FlightX 3D! This project is a combination of flight simula
 #STEERING GUIDE
 
 Use your STM32F4 to control your plane. 
-Turn left - move your STM32F4 left
-Turn right - move your STM32F4 right
-Turn up - move your STM32F4 up
-Turn down - move your STM32F4 down
+- Turn left - move your STM32F4 left
+- Turn right - move your STM32F4 right
+- Turn up - move your STM32F4 up
+- Turn down - move your STM32F4 down
 
 #FUTURE IMPROVEMENTS
 
