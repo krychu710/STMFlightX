@@ -1,6 +1,6 @@
 # STMFlightX
 
-OVERVIEW
+#OVERVIEW
 
 STMFlightX is a simple, 3D game which works on Unity 3D engine. Our project implements this game on STM32F4 microcontoller which is used instead a popular keyboard's arrows keys.
 
